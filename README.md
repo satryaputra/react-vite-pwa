@@ -1,8 +1,8 @@
 # React + TypeScript + Vite + PWA
 
-This template provides a minimal setup to get React working in Vite with HMR, some ESLint rules, and fully-offline available (Progressive Web App) with plugin
+This template provides a minimal setup to get React working in Vite with HMR, some ESLint rules, and fully-offline available (Progressive Web App) with plugin :
 
-- [vite-plugin-pwa](https://github.com/vitejs/vite-plugin-pwa)
+- [vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa)
 
 Currently, this template use official plugin :
 
